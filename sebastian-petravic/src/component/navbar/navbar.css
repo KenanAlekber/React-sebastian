@@ -1,0 +1,55 @@
+.logo {
+    display: flex;
+}
+
+.logo img {
+    background-image: url("../../../public/images/SebLog.png");
+    height: 32px;
+    width: 32px;
+}
+
+.logo span {
+    margin: auto 0;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+.content img {
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.navbar {
+    margin: 2% 3%;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+}
+
+.navbar nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    margin-left: 20px;
+    transition: 0.5s;
+}
+
+.navbar nav a:hover {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#btn {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 17px;
+    padding: 10px;
+    transition: 0.5s;
+}
+
+#btn:hover {
+    background: rgb(86, 86, 86);
+}

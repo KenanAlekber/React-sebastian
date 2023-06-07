@@ -1,0 +1,16 @@
+@import url(./component/navbar/navbar.css);
+@import url(./component/hero/hero.css);
+@import url(./component/text/text.css);
+/* @import url(./component/design/design.css); */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #eeeff1;
+  font-family: 'Poppins', sans-serif;
+
+}

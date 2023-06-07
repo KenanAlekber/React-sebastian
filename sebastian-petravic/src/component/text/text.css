@@ -1,0 +1,42 @@
+.career {
+    display: flex;
+}
+
+.career-text {
+    margin: 3% 11%;
+    width: 50%;
+}
+
+.career-text h3 {
+    font-size: 44px;
+}
+
+.career-text span {
+    display: block;
+    margin-top: 20px;
+    font-size: 20px;
+    width: 558px;
+    font-weight: 300;
+    line-height: 32px;
+}
+
+.career-ability {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 6%;
+    margin-right: 12%;
+    width: 50%;
+}
+
+.career-ability span {
+    border: 1px solid rgb(185, 182, 182);
+    border-radius: 8px;
+    color: black;
+    font-size: 20px;
+    margin-right: 5px;
+    margin-bottom: 10px !important;
+    padding-right: 10px;
+    padding-left: 10px;
+    line-height: 39px;
+}
